@@ -5,6 +5,13 @@ subtitle: Why we rock
 ---
 
 
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
