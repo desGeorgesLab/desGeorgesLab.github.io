@@ -36,6 +36,13 @@ Structural and functional study of the regulation of large macromolecular comple
      <b style="font-size:20px">RESEARCH INTERESTS</b> 
      Exploring the mechanistic interplay of macromolecular complexes such as those involved in translation initiation using biophysical methods such as cryo-electron microscopy and tomography.
  </td>
- 
+ </tr>
+ <tr>
+     <td>
+          efnwefnef
+     </td>
+     <td>
+          ljenfefn
+     </td>
  </tr>
 </table>
