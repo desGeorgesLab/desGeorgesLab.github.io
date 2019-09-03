@@ -35,7 +35,7 @@ Motivated and inspired by resolution revolution of cryo-EM, I joined des Georges
     <b style="font-size:30px">Contact:</b>dominique.gutierrez@asrc.cuny.edu<br>
     Dominique Gutierrez graduated from the University of Texas at El Paso (UTEP) with a B.S. in Cellular and Molecular Biochemistry in 2016 receiving high honors and the College of Science Award for Academic and Research Excellence. Dominique’s undergraduate research experiences led her to seek a PhD position in the structural biology lab of Amedee des Georges where she could develop her interest in studying molecular effects at an atomic level.
 
-Outside of the lab Dominique enjoys exploring the city, anything music related, and keeping up with the broader scientific literature.
+Outside of the lab Dominique enjoys exploring the city, anything music related, and keeping up with the broader scientific literature.<br>
 <b style="font-size:20px">RESEARCH INTERESTS</b> 
 Exploring the mechanistic interplay of macromolecular complexes such as those involved in translation initiation using biophysical methods such as cryo-electron microscopy and tomography.
  </td>
