@@ -6,7 +6,8 @@ title: Members
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">DR. AMÉDÉE DES GEORGES</b> <img src="img/des-Georges-376px.jpg" width="200" height="300">
+    <td><img src="img/des-Georges-376px.jpg" width="200" height="300"><br>
+     <b style="font-size:30px">DR. AMÉDÉE DES GEORGES</b> 
      <br> <b style="font-size:20px">Title:</b><br>
 Assistant Professor of Chemistry, ASRC Structural Biology Initiative<br>
 Assistant Professor of Chemistry & Biochemistry, City College of New York<br>
@@ -15,7 +16,7 @@ Assistant Professor of Chemistry & Biochemistry, City College of New York<br>
 
 Des Georges received his B.S. and M.S. in Biochemistry from Université Pierre and Marie Curie in Paris before obtaining his Ph.D. degree from the University of Cambridge in 2008 for his work with Linda Amos at the MRC-Laboratory of Molecular Biology. He then joined the lab of Joachim Frank at Columbia University as a postdoctoral researcher. In addition of being a core faculty member of the ASRC Structural Biology Initiative, des Georges is a tenure-track assistant professor at the City College Department of Chemistry and Biochemistry.
 
-Des Georges was appointed to the ASRC in August 2015.
+Des Georges was appointed to the ASRC in August 2015.<br>
 
 <b style="font-size:20px">RESEARCH INTERESTS</b>
 Structural and functional study of the regulation of large macromolecular complexes using cryo-electron microscopy.
