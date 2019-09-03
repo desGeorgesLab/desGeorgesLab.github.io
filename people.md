@@ -1,7 +1,6 @@
 ---
 layout: page
-title: people
-subtitle: Why we rock 
+title: Members
 ---
 
 
