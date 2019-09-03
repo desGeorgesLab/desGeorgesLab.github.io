@@ -2,11 +2,7 @@
 layout: page
 title: Members
 ---
-
-
-<table border="0">
- <tr>
-    <td><img src="img/des-Georges-376px.jpg" width="200" height="300"><br>
+<td><img src="img/des-Georges-376px.jpg" width="200" height="300"><br>
      <b style="font-size:30px">DR. AMÉDÉE DES GEORGES</b> 
      <br> <b style="font-size:20px">Title:</b><br>
 Assistant Professor of Chemistry, ASRC Structural Biology Initiative<br>
@@ -21,6 +17,10 @@ Des Georges was appointed to the ASRC in August 2015.<br>
 <b style="font-size:20px">RESEARCH INTERESTS</b>
 Structural and functional study of the regulation of large macromolecular complexes using cryo-electron microscopy.
 </td>
+
+<table border="0">
+ <tr>
+    
     
  </tr>
  <tr>
