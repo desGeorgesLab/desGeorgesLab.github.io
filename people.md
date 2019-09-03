@@ -18,7 +18,7 @@ Des Georges was appointed to the ASRC in August 2015.<br>
 Structural and functional study of the regulation of large macromolecular complexes using cryo-electron microscopy.
 </td>
 
-<table border="0">
+<table border="0" align="center">
  <tr>
     <td>
      <img src="img/Da-Cui.jpg" width="200" height="300"><br>
