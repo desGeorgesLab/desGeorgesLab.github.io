@@ -30,6 +30,7 @@ Structural and functional study of the regulation of large macromolecular comple
       
   <td>
      <img src="img/Gutierrez-376px.jpg" width="200" height="300"><br>
+     <b style="font-size:30px">DOMINIQUE GUTIERREZ</b><br>
      <b style="font-size:30px">Position </b>  Ph.D. Student, Amédée des Georges Lab<br>
      <b style="font-size:30px">Contact </b>dominique.gutierrez@asrc.cuny.edu<br>
      Dominique Gutierrez graduated from the University of Texas at El Paso (UTEP) with a B.S. in Cellular and Molecular Biochemistry in 2016 receiving high honors and the College of Science Award for Academic and Research Excellence. Dominique’s undergraduate research experiences led her to seek a PhD position in the structural biology lab of Amedee des Georges where she could develop her interest in studying molecular effects at an atomic level.  Outside of the lab Dominique enjoys exploring the city, anything music related, and keeping up with the broader scientific literature.<br>
