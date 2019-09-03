@@ -28,7 +28,7 @@ Structural and functional study of the regulation of large macromolecular comple
      Motivated and inspired by resolution revolution of cryo-EM, I joined des Georges' lab to study eukaryotic translation initiation, a highly-regulated and dynamic system. My short-term goal during PhD study is to train myself to be an independent researcher, while at the same time, to study structural basis of canonical eukaryotic translation initiation. I want to provide insights towards how 43S is formed and how 43S scans along mRNA to promote codon recognition. My long-term goal is to start my own lab in a research institute, continuing to study the structural basis of central dogma using biophysical and biochemical tools. More importantly, I hope to train future PhD students into independent researcher of the next generation, just like what I'm doing right now.
  </td>
       
-    <td>
+  <td>
      <img src="img/Gutierrez-376px.jpg" width="200" height="300"><br>
      <b style="font-size:30px">Position </b>  Ph.D. Student, Amédée des Georges Lab<br>
      <b style="font-size:30px">Contact </b>dominique.gutierrez@asrc.cuny.edu<br>
