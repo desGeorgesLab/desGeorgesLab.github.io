@@ -7,7 +7,7 @@ subtitle: Why we rock
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">DR. AMÉDÉE DES GEORGES</b> <img src="img/des-Georges-376px.jpg">
+    <td><b style="font-size:30px">DR. AMÉDÉE DES GEORGES</b> <img src="img/des-Georges-376px.jpg" width="200" height="300">
      <br> <b style="font-size:20px">Title:</b><br>
 Assistant Professor of Chemistry, ASRC Structural Biology Initiative<br>
 Assistant Professor of Chemistry & Biochemistry, City College of New York<br>
