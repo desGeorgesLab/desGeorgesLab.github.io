@@ -2,6 +2,7 @@
 layout: page
 title: Members
 ---
+<img src="img/IMG_2793.jpg"><br>
 <img src="img/des-Georges-376px.jpg" width="200" height="300"><br>
      <b style="font-size:30px">DR. AMÉDÉE DES GEORGES</b> 
      <br> <b style="font-size:20px">Title:</b><br>
