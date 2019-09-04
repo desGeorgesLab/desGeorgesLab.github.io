@@ -24,15 +24,31 @@ Structural and functional study of the regulation of large macromolecular comple
 
 ---
 
-![des-Georges](img/Da-Cui.jpg1.jpg) <br>
+![des-Georges](img/Gutierrez-376px1.jpg) <br>
 **DA CUI**
 
 **Position**<br>
 Ph.D. Student, Amédée des Georges Lab <br>
 **Contact** <br>
-Da.Cui@asrc.cuny.edu <br>
+dominique.gutierrez@asrc.cuny.edu <br>
 
 Motivated and inspired by resolution revolution of cryo-EM, I joined des Georges' lab to study eukaryotic translation initiation, a highly-regulated and dynamic system. My short-term goal during PhD study is to train myself to be an independent researcher, while at the same time, to study structural basis of canonical eukaryotic translation initiation. I want to provide insights towards how 43S is formed and how 43S scans along mRNA to promote codon recognition. My long-term goal is to start my own lab in a research institute, continuing to study the structural basis of central dogma using biophysical and biochemical tools. More importantly, I hope to train future PhD students into independent researcher of the next generation, just like what I'm doing right now.
+
+---
+
+![des-Georges](img/Da-Cui.jpg1.jpg) <br>
+**DOMINIQUE GUTIERREZ**
+
+**Position**<br>
+Ph.D. Student, Amédée des Georges Lab <br>
+**Contact** <br>
+Da.Cui@asrc.cuny.edu <br>
+Dominique Gutierrez graduated from the University of Texas at El Paso (UTEP) with a B.S. in Cellular and Molecular Biochemistry in 2016 receiving high honors and the College of Science Award for Academic and Research Excellence. Dominique’s undergraduate research experiences led her to seek a PhD position in the structural biology lab of Amedee des Georges where she could develop her interest in studying molecular effects at an atomic level.
+
+Outside of the lab Dominique enjoys exploring the city, anything music related, and keeping up with the broader scientific literature.
+
+**RESEARCH INTERESTS** <br>
+Exploring the mechanistic interplay of macromolecular complexes such as those involved in translation initiation using biophysical methods such as cryo-electron microscopy and tomography.
 
 ---
 
