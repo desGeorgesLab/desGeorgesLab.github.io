@@ -72,8 +72,8 @@ social-network-links:
   rss: true
   #email: "someone@example.com"
   #facebook: deanattali
-  github: https://github.com/desGeorgesLab
-  twitter: https://twitter.com/desGeorgesLab
+  github: desGeorgesLab
+  twitter: desGeorgesLab
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
