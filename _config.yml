@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: des Georges lab
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: cryo-electron microscopy and novel image analysis
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,10 +20,12 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "people"
+  MEMBERS: "people"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - ASRC: "https://asrc.gc.cuny.edu/"
     - Learn markdown: "http://www.markdowntutorial.com/"
+  RESEARCH: "research"
+  PUBLICATIONS: "publication"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -68,10 +70,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  #email: "someone@example.com"
+  #facebook: deanattali
+  github: https://github.com/desGeorgesLab
+  twitter: https://twitter.com/desGeorgesLab
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -88,12 +90,12 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  #facebook: true
+  #linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
