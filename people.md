@@ -7,14 +7,11 @@ bigimg: /img/IMG_2793.jpg
 
 ### DR. AMÉDÉE DES GEORGES
 
-**Title** 
-Assistant Professor of Chemistry, ASRC Structural Biology Initiative
-Assistant Professor of Chemistry & Biochemistry, City College of New York
-
-**Contact** 
-
-amedee.desgeorges@asrc.cuny.edu | 212-413-3232
-
+**Title** </br>
+Assistant Professor of Chemistry, ASRC Structural Biology Initiative </br>
+Assistant Professor of Chemistry & Biochemistry, City College of New York </br>
+**Contact** </br>
+amedee.desgeorges@asrc.cuny.edu | 212-413-3232 </br>
 
 Amédée des Georges, Ph.D. is a structural biologist with particular expertise in single-particle cryo-electron microscopy. He uses the ability of single-particle cryo-electron microscopy to sort electron microscopy images into different sub-populations in order to obtain high resolution structures of samples conformationally or compositionally heterogeneous, such as the mammalian translation initiation complex or the largest known membrane channel called the ryanodine receptor. He established a research group exploring with cryo-electron microscopy the regulatory mechanisms of such large protein and RNA complexes.
 
