@@ -3,8 +3,8 @@ layout: page
 title: Members
 bigimg: /img/IMG_2793.jpg
 ---
+![des-Georges](img/des-Georges-376px.jpg)
 
-<img src="img/des-Georges-376px.jpg" width="200" height="300"><br>
      <b style="font-size:30px">DR. AMÉDÉE DES GEORGES</b> 
      <br> <b style="font-size:20px">Title:</b><br>
 Assistant Professor of Chemistry, ASRC Structural Biology Initiative<br>
