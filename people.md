@@ -8,9 +8,7 @@ bigimg: /img/IMG_2793.jpg
 ### DR. AMÉDÉE DES GEORGES
 
 **Title** 
-
 Assistant Professor of Chemistry, ASRC Structural Biology Initiative
-
 Assistant Professor of Chemistry & Biochemistry, City College of New York
 
 **Contact** 
