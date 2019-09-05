@@ -7,11 +7,7 @@ bigimg: /img/IMG_2793.jpg
 
 | | | |
 |-|-|-|
-|**Position** <br>
-Assistant Professor of Chemistry, ASRC Structural Biology Initiative <br>
-Assistant Professor of Chemistry & Biochemistry, City College of New York <br>
-**Contact** <br>
-amedee.desgeorges@asrc.cuny.edu | 212-413-3232 <br> | Value1 |
+|**Position** <br>Assistant Professor of Chemistry, ASRC Structural Biology Initiative <br>Assistant Professor of Chemistry Biochemistry, City College of New York <br>**Contact** <br> amedee.desgeorges@asrc.cuny.edu (212-413-3232) <br> | Value1 |
 | Normal Key | Value2 |
 
 ### DR. AMÉDÉE DES GEORGES
