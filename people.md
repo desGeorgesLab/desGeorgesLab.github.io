@@ -49,35 +49,24 @@ bigimg: /img/IMG_2793.jpg
   </div>
 </div>
 
-
-
-
-------
-
-**Fahmeed Sheehan**
-
-**Position**<br>
-Doctoral Student, Amédée des Georges Lab <br>
-**Contact** <br>
-fsheehan@gradcenter.cuny.edu <br>
-My drive for doing research is to answer fundamental questions about chemical interactions, specifically in the short peptide realm. While it is widely understood that short peptide sequences interact with each other to form supramolecular nano-structures, unique structural features for many such systems have not been identified. My goal in the des Georges lab is to use cryo-electron microscopy to figure out how peptides that form gels self-assemble.
-
-------
-
+<div class="row">
+  <div class="col-md-8" markdown="1">
+**Fahmeed Sheehan**<br>**Position**<br>Doctoral Student, Amédée des Georges Lab<br>**Contact**<br>fsheehan@gradcenter.cuny.edu
+  </div>
+  <div class="col-md-4" markdown="1">
+  My drive for doing research is to answer fundamental questions about chemical interactions, specifically in the short peptide realm. While it is widely understood that short peptide sequences interact with each other to form supramolecular nano-structures, unique structural features for many such systems have not been identified. My goal in the des Georges lab is to use cryo-electron microscopy to figure out how peptides that form gels self-assemble.
+  </div>
+</div>
 ## FORMER MEMBERS
-
-![des-Georges](img/Ben-Hail-web.jpg) <br>
-**DR. DANYA BEN-HAIL**
-
-**Position**<br>
-Postdoctoral Researcher, Amédée des Georges Lab <br>
-**Contact** <br>
-danya.ben-hail@asrc.cuny.edu <br>
-My passion is to tackle complex questions and problems by breaking them down to clear manageable aims.
+<div class="row">
+  <div class="col-md-8" markdown="1">
+ ![des-Georges](img/Ben-Hail-web.jpg)<br>**DR. DANYA BEN-HAIL**<br>**Position**<br>Postdoctoral Researcher, Amédée des Georges Lab<br>**Contact**<br>danya.ben-hail@asrc.cuny.edu
+  </div>
+  <div class="col-md-4" markdown="1">
+  My passion is to tackle complex questions and problems by breaking them down to clear manageable aims.
 My previous research experience includes molecular biology, biochemistry and electrophysiology while working in collaboration with people from around the world. Wishing to continue in this vein and challenge myself, I joined the des Georges lab to learn new advanced methods and form new collaborations. 
-
-------
-
+  </div>
+</div>
 
 
 
