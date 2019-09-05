@@ -15,6 +15,15 @@ bigimg: /img/IMG_2793.jpg
 
 <div class="row">
   <div class="col-md-5" markdown="1">
+  ![des-Georges](img/Da-Cui.jpg)<br>**DA CUI**<br>**Position**<br>Ph.D. Student, Amédée des Georges Lab <br>**Contact** <br>Da.Cui@asrc.cuny.edu
+  </div>
+  <div class="col-md-7" markdown="1">
+  Motivated and inspired by resolution revolution of cryo-EM, I joined des Georges' lab to study eukaryotic translation initiation, a highly-regulated and dynamic system. My short-term goal during PhD study is to train myself to be an independent researcher, while at the same time, to study structural basis of canonical eukaryotic translation initiation. I want to provide insights towards how 43S is formed and how 43S scans along mRNA to promote codon recognition. My long-term goal is to start my own lab in a research institute, continuing to study the structural basis of central dogma using biophysical and biochemical tools. More importantly, I hope to train future PhD students into independent researcher of the next generation, just like what I'm doing right now.
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
   Some text.
   </div>
   <div class="col-md-7" markdown="1">
@@ -22,27 +31,24 @@ bigimg: /img/IMG_2793.jpg
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-7" markdown="1">
+  Some text.
+  </div>
+</div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-7" markdown="1">
+  Some text.
+  </div>
+</div>
 
-
-
-
-
-
-
-------
-
-## 
-
-![des-Georges](img/Gutierrez-376px.jpg) <br>
-**DA CUI**
-
-**Position**<br>
-Ph.D. Student, Amédée des Georges Lab <br>
-**Contact** <br>
-dominique.gutierrez@asrc.cuny.edu <br>
-
-Motivated and inspired by resolution revolution of cryo-EM, I joined des Georges' lab to study eukaryotic translation initiation, a highly-regulated and dynamic system. My short-term goal during PhD study is to train myself to be an independent researcher, while at the same time, to study structural basis of canonical eukaryotic translation initiation. I want to provide insights towards how 43S is formed and how 43S scans along mRNA to promote codon recognition. My long-term goal is to start my own lab in a research institute, continuing to study the structural basis of central dogma using biophysical and biochemical tools. More importantly, I hope to train future PhD students into independent researcher of the next generation, just like what I'm doing right now.
 
 ------
 
