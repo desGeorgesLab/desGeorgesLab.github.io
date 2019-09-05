@@ -3,7 +3,7 @@ layout: page
 title: Members
 bigimg: /img/IMG_2793.jpg
 ---
-![des-Georges](img/des-Georges-376px1.jpg)
+![des-Georges](img/des-Georges-376px.jpg)
 
 ### DR. AMÉDÉE DES GEORGES
 
@@ -26,7 +26,7 @@ Structural and functional study of the regulation of large macromolecular comple
 
 ## Current group members
 
-![des-Georges](img/Gutierrez-376px1.jpg) <br>
+![des-Georges](img/Gutierrez-376px.jpg) <br>
 **DA CUI**
 
 **Position**<br>
@@ -38,7 +38,7 @@ Motivated and inspired by resolution revolution of cryo-EM, I joined des Georges
 
 ------
 
-![des-Georges](img/Da-Cui.jpg1.jpg) <br>
+![des-Georges](img/Da-Cui.jpg.jpg) <br>
 **DOMINIQUE GUTIERREZ**
 
 **Position**<br>
@@ -54,7 +54,7 @@ Exploring the mechanistic interplay of macromolecular complexes such as those in
 
 ------
 
-![des-Georges](img/Salah-Salah1.jpg) <br>
+![des-Georges](img/Salah-Salah.jpg) <br>
 **SALAH SALAH**
 
 **Position**<br>
@@ -66,7 +66,7 @@ I joined the PhD program for the benefits of the highly independent atmosphere i
 
 ------
 
-![des-Georges](img/Marcink-376x4511.jpg) <br>
+![des-Georges](img/Marcink-376x451.jpg) <br>
 **DR. TARA MARCINK**
 
 **Position**<br>
@@ -90,7 +90,7 @@ My drive for doing research is to answer fundamental questions about chemical in
 
 ## FORMER MEMBERS
 
-![des-Georges](img/Marcink-376x4511.jpg) <br>
+![des-Georges](img/Marcink-376x451.jpg) <br>
 **DR. DANYA BEN-HAIL**
 
 **Position**<br>
