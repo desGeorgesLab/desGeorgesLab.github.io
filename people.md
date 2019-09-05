@@ -33,10 +33,10 @@ bigimg: /img/IMG_2793.jpg
 
 <div class="row">
   <div class="col-md-5" markdown="1">
-  Some text.
+  ![des-Georges](img/Salah-Salah.jpg)<br>**SALAH SALAH**<br>**Position**<br>Ph.D. Student, Amédée des Georges Lab<br>**Contact**<br>Salah.Salah@asrc.cuny.edu
   </div>
   <div class="col-md-7" markdown="1">
-  Some text.
+  I joined the PhD program for the benefits of the highly independent atmosphere it offers: continually rewarding small, patient, semi-obsessive steps forward with confident leaps in the advancement of our understanding. My passion for science is birthed from the same sense that values creativity and imagination. Too many of my thoughts revolve around the fractal behaviour of biology, and I take a special pleasure in finding correlations between certain principles of biology and other abstractions from different disciplines, especially the boundary problem in physics. I believe biology lives on the boundary of reality, which in turn gives life the ability to adapt and move in time. Long term, I hope to contribute to the community that uncovers common ground between biology and artificial intelligence. My current projects concentrate on analysing cryo-EM data of proteins and their dynamic motions. To view a history of all the projects I have contributed to, visit my github account here. [GitHub](https://github.com/SalahBioPhysics)
   </div>
 </div>
 
@@ -50,23 +50,7 @@ bigimg: /img/IMG_2793.jpg
 </div>
 
 
-------
 
-
-
-
-
-------
-
-![des-Georges](img/Salah-Salah.jpg) <br>
-**SALAH SALAH**
-
-**Position**<br>
-Ph.D. Student, Amédée des Georges Lab <br>
-**Contact** <br>
-Salah.Salah@asrc.cuny.edu <br>
-
-I joined the PhD program for the benefits of the highly independent atmosphere it offers: continually rewarding small, patient, semi-obsessive steps forward with confident leaps in the advancement of our understanding. My passion for science is birthed from the same sense that values creativity and imagination. Too many of my thoughts revolve around the fractal behaviour of biology, and I take a special pleasure in finding correlations between certain principles of biology and other abstractions from different disciplines, especially the boundary problem in physics. I believe biology lives on the boundary of reality, which in turn gives life the ability to adapt and move in time. Long term, I hope to contribute to the community that uncovers common ground between biology and artificial intelligence. My current projects concentrate on analysing cryo-EM data of proteins and their dynamic motions. To view a history of all the projects I have contributed to, visit my github account here. [GitHub](https://github.com/SalahBioPhysics)
 
 ------
 
