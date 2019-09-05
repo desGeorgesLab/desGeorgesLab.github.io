@@ -24,10 +24,10 @@ bigimg: /img/IMG_2793.jpg
 
 <div class="row">
   <div class="col-md-5" markdown="1">
-  Some text.
+  ![des-Georges](img/Gutierrez-376px.jpg)<br>**DOMINIQUE GUTIERREZ****Position**<br>Ph.D. Student, Amédée des Georges Lab <br>**Contact** <br>Da.Cui@asrc.cuny.edu<br>**RESEARCH INTERESTS**<br>Exploring the mechanistic interplay of macromolecular complexes such as those involved in translation initiation using biophysical methods such as cryo-electron microscopy and tomography
   </div>
   <div class="col-md-7" markdown="1">
-  Some text.
+  Dominique Gutierrez graduated from the University of Texas at El Paso (UTEP) with a B.S. in Cellular and Molecular Biochemistry in 2016 receiving high honors and the College of Science Award for Academic and Research Excellence. Dominique’s undergraduate research experiences led her to seek a PhD position in the structural biology lab of Amedee des Georges where she could develop her interest in studying molecular effects at an atomic level.<br>Outside of the lab Dominique enjoys exploring the city, anything music related, and keeping up with the broader scientific literature.
   </div>
 </div>
 
@@ -52,19 +52,9 @@ bigimg: /img/IMG_2793.jpg
 
 ------
 
-![des-Georges](img/Da-Cui.jpg.jpg) <br>
-**DOMINIQUE GUTIERREZ**
 
-**Position**<br>
-Ph.D. Student, Amédée des Georges Lab <br>
-**Contact** <br>
-Da.Cui@asrc.cuny.edu <br>
-Dominique Gutierrez graduated from the University of Texas at El Paso (UTEP) with a B.S. in Cellular and Molecular Biochemistry in 2016 receiving high honors and the College of Science Award for Academic and Research Excellence. Dominique’s undergraduate research experiences led her to seek a PhD position in the structural biology lab of Amedee des Georges where she could develop her interest in studying molecular effects at an atomic level.
 
-Outside of the lab Dominique enjoys exploring the city, anything music related, and keeping up with the broader scientific literature.
 
-**RESEARCH INTERESTS** <br>
-Exploring the mechanistic interplay of macromolecular complexes such as those involved in translation initiation using biophysical methods such as cryo-electron microscopy and tomography.
 
 ------
 
