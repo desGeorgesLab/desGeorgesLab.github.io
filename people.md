@@ -4,6 +4,7 @@ title: Members
 bigimg: /img/IMG_2793.jpg
 ---
 
+## PRINCIPAL INVESTIGATOR
 <div class="row">
   <div class="col-md-5" markdown="1">
   ![des-Georges](img/des-Georges-376px.jpg)<br>**DR. AMÉDÉE DES GEORGES**<br>**Position** <br>Assistant Professor of Chemistry, ASRC Structural Biology Initiative <br>Assistant Professor of Chemistry Biochemistry, City College of New York <br>**Contact**<br>amedee.desgeorges@asrc.cuny.edu (212-413-3232)<br>**RESEARCH INTERESTS** <br>Structural and functional study of the regulation of large macromolecular complexes using cryo-electron microscopy
@@ -13,6 +14,7 @@ bigimg: /img/IMG_2793.jpg
   </div>
 </div>
 
+## CURRENT MEMBERS
 <div class="row">
   <div class="col-md-5" markdown="1">
   ![des-Georges](img/Da-Cui.jpg)<br>**DA CUI**<br>**Position**<br>Ph.D. Student, Amédée des Georges Lab <br>**Contact** <br>Da.Cui@asrc.cuny.edu
