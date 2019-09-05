@@ -90,7 +90,7 @@ My drive for doing research is to answer fundamental questions about chemical in
 
 ## FORMER MEMBERS
 
-![des-Georges](img/Marcink-376x451.jpg) <br>
+![des-Georges](img/Ben-Hail-web.jpg) <br>
 **DR. DANYA BEN-HAIL**
 
 **Position**<br>
