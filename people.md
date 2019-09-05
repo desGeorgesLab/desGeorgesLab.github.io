@@ -42,27 +42,15 @@ bigimg: /img/IMG_2793.jpg
 
 <div class="row">
   <div class="col-md-5" markdown="1">
-  Some text.
+  ![des-Georges](img/Marcink-376x451.jpg)<br>**DR. TARA MARCINK**<br>**Position**<br>Postdoctoral Researcher, Amédée des Georges Lab<br>**Contact**<br>tara.marcink@asrc.cuny.edu
   </div>
   <div class="col-md-7" markdown="1">
-  Some text.
+  My drive is to use cryo-electron tomography as a way to  understand protein-protein interactions on membrane surfaces in near cellular conditions. Currently, my research is focused on identifying mechanisms of fusion at the viral-host surface. In the future I am interested in other viral-host membrane interactions including fusion with a host membrane, protein packaging, and viral budding. These studies align with my general research interests of structural biochemistry, lipidomics, molecular dynamics, and virus-host interactions.
   </div>
 </div>
 
 
 
-
-------
-
-![des-Georges](img/Marcink-376x451.jpg) <br>
-**DR. TARA MARCINK**
-
-**Position**<br>
-Postdoctoral Researcher, Amédée des Georges Lab <br>
-**Contact** <br>
-tara.marcink@asrc.cuny.edu <br>
-
-My drive is to use cryo-electron tomography as a way to  understand protein-protein interactions on membrane surfaces in near cellular conditions. Currently, my research is focused on identifying mechanisms of fusion at the viral-host surface. In the future I am interested in other viral-host membrane interactions including fusion with a host membrane, protein packaging, and viral budding. These studies align with my general research interests of structural biochemistry, lipidomics, molecular dynamics, and virus-host interactions.
 
 ------
 
