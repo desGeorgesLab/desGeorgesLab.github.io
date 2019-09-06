@@ -53,7 +53,7 @@ bigimg: /img/IMG_2793.jpg
 
 <div class="row">
   <div class="col-md-5" markdown="1">
-**Fahmeed Sheehan**<br>**Position**<br>Doctoral Student, Amédée des Georges Lab<br>**Contact**<br>fsheehan@gradcenter.cuny.edu
+ ![des-Georges](img/1axc_tricolor.png)<br>**Fahmeed Sheehan**<br>**Position**<br>Doctoral Student, Amédée des Georges Lab<br>**Contact**<br>fsheehan@gradcenter.cuny.edu
   </div>
   <div class="col-md-7" markdown="1">
   My drive for doing research is to answer fundamental questions about chemical interactions, specifically in the short peptide realm. While it is widely understood that short peptide sequences interact with each other to form supramolecular nano-structures, unique structural features for many such systems have not been identified. My goal in the des Georges lab is to use cryo-electron microscopy to figure out how peptides that form gels self-assemble.
