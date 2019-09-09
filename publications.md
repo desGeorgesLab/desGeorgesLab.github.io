@@ -15,8 +15,10 @@ title: Publications
 
 <div class="row">
   <div class="col-md-5" markdown="1">
+    ![des-Georges](img/p2.jpg)<br>
   </div>
   <div class="col-md-7" markdown="1">
+    Montemiglio, L. C., Testi, C., Ceci, P., Falvo, E., Pitea, M., Savino, C., Arcovito, A., Peruzzi, G., Baiocco, P., Mancia, F., Boffi, A., des Georges, A., … Vallone, B. (2019). Cryo-EM structure of the human ferritin-transferrin receptor 1 complex. Nature communications, 10(1), 1121. doi:10.1038/s41467-019-09098-w
   </div>
 </div>
 
@@ -76,10 +78,6 @@ title: Publications
   </div>
 </div>
 
-
-
-
-- Montemiglio, L. C., Testi, C., Ceci, P., Falvo, E., Pitea, M., Savino, C., Arcovito, A., Peruzzi, G., Baiocco, P., Mancia, F., Boffi, A., des Georges, A., … Vallone, B. (2019). Cryo-EM structure of the human ferritin-transferrin receptor 1 complex. Nature communications, 10(1), 1121. doi:10.1038/s41467-019-09098-w
 
 - Chase, J., Catalano, A., Noble, A. J., Eng, E. T., Olinares, P. D., Molloy, K., Pakotiprapha, D., Samuels, M., Chait, B., des Georges, A., … Jeruzalmi, D. (2018). Mechanisms of opening and closing of the bacterial replicative helicase. eLife, 7, e41140. doi:10.7554/eLife.41140
 
