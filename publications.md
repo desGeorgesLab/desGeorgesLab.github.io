@@ -32,11 +32,15 @@ title: Publications
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  ![des-Georges](img/p4.jpg)<br>
+  </div>
+  <div class="col-md-7" markdown="1">
+    Iketani, S., Shean, R. C., Ferren, M., Makhsous, N., Aquino, D. B., des Georges, A., Rima, B., Mathieu, C., Porotto, M., Moscona, A., … Greninger, A. L. (2018). Viral Entry Properties Required for Fitness in Humans Are Lost through Rapid Genomic Change during Viral Isolation. mBio, 9(4), e00898-18. doi:10.1128/mBio.00898-18
+  </div>
+</div>
 
-
-
-
-- Iketani, S., Shean, R. C., Ferren, M., Makhsous, N., Aquino, D. B., des Georges, A., Rima, B., Mathieu, C., Porotto, M., Moscona, A., … Greninger, A. L. (2018). Viral Entry Properties Required for Fitness in Humans Are Lost through Rapid Genomic Change during Viral Isolation. mBio, 9(4), e00898-18. doi:10.1128/mBio.00898-18
 
 - Noble, A. J., Dandey, V. P., Wei, H., Brasch, J., Chase, J., Acharya, P., Tan, Y. Z., Zhang, Z., Kim, L. Y., Scapin, G., Rapp, M., Eng, E. T., Rice, W. J., Cheng, A., Negro, C. J., Shapiro, L., Kwong, P. D., Jeruzalmi, D., des Georges, A., Potter, C. S., … Carragher, B. (2018). Routine single particle CryoEM sample and grid characterization by tomography. eLife, 7, e34257. doi:10.7554/eLife.34257
 
