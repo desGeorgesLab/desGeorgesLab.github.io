@@ -12,7 +12,6 @@ title: Publications
   </div>
 </div>
 
-
 <div class="row">
   <div class="col-md-5" markdown="1">
   ![des-Georges](img/p2.jpg)<br>
@@ -21,7 +20,6 @@ title: Publications
     Montemiglio, L. C., Testi, C., Ceci, P., Falvo, E., Pitea, M., Savino, C., Arcovito, A., Peruzzi, G., Baiocco, P., Mancia, F., Boffi, A., des Georges, A., … Vallone, B. (2019). Cryo-EM structure of the human ferritin-transferrin receptor 1 complex. Nature communications, 10(1), 1121. doi:10.1038/s41467-019-09098-w
   </div>
 </div>
-
 
 <div class="row">
   <div class="col-md-5" markdown="1">
@@ -55,10 +53,9 @@ title: Publications
   ![des-Georges](img/p6_2.PNG)<br>
   </div>
   <div class="col-md-7" markdown="1">
-    Calisti, L., Trabuco, M. C., Boffi, A., Testi, C., Montemiglio, L. C., des Georges, A., Benni, I., Ilari, A., Taciak, B., Białasek, M., Rygiel, T., Król, M., Baiocco, P., … Bonamore, A. (2018). Engineered ferritin for lanthanide binding. PloS one, 13(8), e0201859. doi:10.1371/journal.pone.0201859
+    Calisti, L., Trabuco, M. C., Boffi, A., Testi, C., Montemiglio, L. C., des Georges, A., Benni, I., Ilari, A., Taciak, B., Białasek, M., Rygiel, T., Król, M., Baiocco, P., … Bonamore, A. (2018). Engineered ferritin for lanthanide binding. PloS one, 13(8), e0201859. doi:10.1371/journal.pone.0201859 
   </div>
 </div>
-
 
 <div class="row">
   <div class="col-md-5" markdown="1">
@@ -78,7 +75,14 @@ title: Publications
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  ![des-Georges](img/p9.jpg)<br>
+  </div>
+  <div class="col-md-7" markdown="1">
+    des Georges, A., Dhote, V., Kuhn, L., Hellen, C. U., Pestova, T. V., Frank, J., & Hashem, Y. (2015). Structure of mammalian eIF3 in the context of the 43S preinitiation complex. Nature, 525(7570), 491-5
+  </div>
+</div>
 
-- des Georges, A., Dhote, V., Kuhn, L., Hellen, C. U., Pestova, T. V., Frank, J., & Hashem, Y. (2015). Structure of mammalian eIF3 in the context of the 43S preinitiation complex. Nature, 525(7570), 491-5
 
 - Zalk, R., Clarke, O. B., des Georges, A., Grassucci, R. A., Reiken, S., Mancia, F., Hendrickson, W. A., Frank, J., … Marks, A. R. (2014). Structure of a mammalian ryanodine receptor. Nature, 517(7532), 44-9
