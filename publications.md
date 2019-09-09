@@ -86,7 +86,7 @@ title: Publications
 
 <div class="row">
   <div class="col-md-5" markdown="1">
-  ![des-Georges](img/p9.jpg)<br>
+  ![des-Georges](img/p10_2.jpg)<br>
   </div>
   <div class="col-md-7" markdown="1">
     Zalk, R., Clarke, O. B., des Georges, A., Grassucci, R. A., Reiken, S., Mancia, F., Hendrickson, W. A., Frank, J., … Marks, A. R. (2014). Structure of a mammalian ryanodine receptor. Nature, 517(7532), 44-9
