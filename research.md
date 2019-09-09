@@ -3,21 +3,23 @@ layout: page
 title: research
 ---
 
-<div class="row">
-  <div class="col-md-4" markdown="1">
-  ![des-Georges](img/t1.png)<br>
-    Translation (maybe a better title)
-  </div>
-  <div class="col-md-8" markdown="1">
-    Molecular biology's central dogma holds that biological information travels unilaterally by a series of steps referred to as replication, transcription, and finally, translation. In general, translation involves synthesising peptide chains from mRNA to create proteins that are essential for the cell's function. When the cell's protein levels are out of balance, a rate-limiting stage known as translation initiation is triggered as the cell's way of regulating its protein levels. In nature, we witness a few ways in which the cell's natural translational machinery is hijacked, leading to alterations of protein activity and mRNA structure which can then affect overall protein synthesis. As a result, this can lead to harmful effects on the cell, causing decreased responsiveness to stress and other cellular signals. Examples of these sorts of hijackers include viruses found in both mammals and plants. To prevent such things from taking control of the cell and its translational machinery, we aim to understand the structure of its machines.  Because these machines are dynamic in nature, we use specialised microscopes to capture images of their movement. These cryo-EM methods allow us to achieve near-atomic as well as atomic resolution for dynamic protein complexes. In capturing the images of the cell's translational machinery, we seek to be able to track the conformational changes to the structure.  The hope is that this will allow us to gain clearer insight into the regulatory processes the cell utilises to maintain control over its machinery and its generation of proteins.
-  </div>
-  ## SOFTWARE<br>
-  Add used software<br>
-  ## RESOURCES<br>
-  Add used resources<br>
-  ## COLLABORATORS<br>
+![des-Georges](img/t1.png)
+
+## Translation (maybe a better title)
+
+Molecular biology's central dogma holds that biological information travels unilaterally by a series of steps referred to as replication, transcription, and finally, translation. In general, translation involves synthesising peptide chains from mRNA to create proteins that are essential for the cell's function. When the cell's protein levels are out of balance, a rate-limiting stage known as translation initiation is triggered as the cell's way of regulating its protein levels. In nature, we witness a few ways in which the cell's natural translational machinery is hijacked, leading to alterations of protein activity and mRNA structure which can then affect overall protein synthesis. As a result, this can lead to harmful effects on the cell, causing decreased responsiveness to stress and other cellular signals. Examples of these sorts of hijackers include viruses found in both mammals and plants. To prevent such things from taking control of the cell and its translational machinery, we aim to understand the structure of its machines.  Because these machines are dynamic in nature, we use specialised microscopes to capture images of their movement. These cryo-EM methods allow us to achieve near-atomic as well as atomic resolution for dynamic protein complexes. In capturing the images of the cell's translational machinery, we seek to be able to track the conformational changes to the structure.  The hope is that this will allow us to gain clearer insight into the regulatory processes the cell utilises to maintain control over its machinery and its generation of proteins.
+
+## SOFTWARE
+
+Add used software
+
+## RESOURCES
+
+Add used resources
+
+## COLLABORATORS
   Add collaborators
-</div>
+
 
 
 ## Membrane
