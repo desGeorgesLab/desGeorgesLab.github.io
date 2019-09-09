@@ -9,7 +9,7 @@ title: publications
     ![des-Georges](img/avatar-icon.png)
   </div>
   <div class="col-md-7" markdown="1">
-    A. Dashti, D.B. Hail, G. Mashayekhi, P. Schwander, A. des Georges, J. Frank, A. Ourmazd (co-corresponding author) (2018) Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots. bioRxiv: 291922 (pre-print)
+    Ak. Dashti, D.B. Hail, G. Mashayekhi, P. Schwander, A. des Georges, J. Frank, A. Ourmazd (co-corresponding author) (2018) Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots. bioRxiv: 291922 (pre-print)
   </div>
 </div>
 
