@@ -59,6 +59,7 @@ title: Publications
   </div>
 </div>
 
+
 <div class="row">
   <div class="col-md-5" markdown="1">
   ![des-Georges](img/p7.jpg)<br>
@@ -68,8 +69,15 @@ title: Publications
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  ![des-Georges](img/p8.jpg)<br>
+  </div>
+  <div class="col-md-7" markdown="1">
+    des Georges, A., Clarke, O. B., Zalk, R., Yuan, Q., Condon, K. J., Grassucci, R. A., Hendrickson, W. A., Marks, A. R., … Frank, J. (2016). Structural Basis for Gating and Activation of RyR1. Cell, 167(1), 145-157.e17
+  </div>
+</div>
 
-- des Georges, A., Clarke, O. B., Zalk, R., Yuan, Q., Condon, K. J., Grassucci, R. A., Hendrickson, W. A., Marks, A. R., … Frank, J. (2016). Structural Basis for Gating and Activation of RyR1. Cell, 167(1), 145-157.e17
 
 - des Georges, A., Dhote, V., Kuhn, L., Hellen, C. U., Pestova, T. V., Frank, J., & Hashem, Y. (2015). Structure of mammalian eIF3 in the context of the 43S preinitiation complex. Nature, 525(7570), 491-5
 
