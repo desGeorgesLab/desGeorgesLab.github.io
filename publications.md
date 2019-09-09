@@ -41,8 +41,15 @@ title: Publications
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  ![des-Georges](img/p5.jpg)<br>
+  </div>
+  <div class="col-md-7" markdown="1">
+    Noble, A. J., Dandey, V. P., Wei, H., Brasch, J., Chase, J., Acharya, P., Tan, Y. Z., Zhang, Z., Kim, L. Y., Scapin, G., Rapp, M., Eng, E. T., Rice, W. J., Cheng, A., Negro, C. J., Shapiro, L., Kwong, P. D., Jeruzalmi, D., des Georges, A., Potter, C. S., … Carragher, B. (2018). Routine single particle CryoEM sample and grid characterization by tomography. eLife, 7, e34257. doi:10.7554/eLife.34257
+  </div>
+</div>
 
-- Noble, A. J., Dandey, V. P., Wei, H., Brasch, J., Chase, J., Acharya, P., Tan, Y. Z., Zhang, Z., Kim, L. Y., Scapin, G., Rapp, M., Eng, E. T., Rice, W. J., Cheng, A., Negro, C. J., Shapiro, L., Kwong, P. D., Jeruzalmi, D., des Georges, A., Potter, C. S., … Carragher, B. (2018). Routine single particle CryoEM sample and grid characterization by tomography. eLife, 7, e34257. doi:10.7554/eLife.34257
 
 - Calisti, L., Trabuco, M. C., Boffi, A., Testi, C., Montemiglio, L. C., des Georges, A., Benni, I., Ilari, A., Taciak, B., Białasek, M., Rygiel, T., Król, M., Baiocco, P., … Bonamore, A. (2018). Engineered ferritin for lanthanide binding. PloS one, 13(8), e0201859. doi:10.1371/journal.pone.0201859
 
