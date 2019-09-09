@@ -8,18 +8,10 @@ title: Publications
   ![des-Georges](img/p1.png)<br>
   </div>
   <div class="col-md-7" markdown="1">
-   Amédée des Georges, Ph.D. is a structural biologist with particular expertise in single-particle cryo-electron microscopy. He uses the ability of single-particle cryo-electron microscopy to sort electron microscopy images into different sub-populations in order to obtain high resolution structures of samples conformationally or compositionally heterogeneous, such as the mammalian translation initiation complex or the largest known membrane channel called the ryanodine receptor. He established a research group exploring with cryo-electron microscopy the regulatory mechanisms of such large protein and RNA complexes.<br>Des Georges received his B.S. and M.S. in Biochemistry from Université Pierre and Marie Curie in Paris before obtaining his Ph.D. degree from the University of Cambridge in 2008 for his work with Linda Amos at the MRC-Laboratory of Molecular Biology. He then joined the lab of Joachim Frank at Columbia University as a postdoctoral researcher. In addition of being a core faculty member of the ASRC Structural Biology Initiative, des Georges is a tenure-track assistant professor at the City College Department of Chemistry and Biochemistry.<br>Des Georges was appointed to the ASRC in August 2015 
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-5" markdown="1">
-    ![des-Georges](img/avatar-icon.png)
-  </div>
-  <div class="col-md-7" markdown="1">
     A. Dashti, D.B. Hail, G. Mashayekhi, P. Schwander, A. des Georges, J. Frank, A. Ourmazd (co-corresponding author) (2018) Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots. bioRxiv: 291922 (pre-print)
   </div>
 </div>
+
 
 <div class="row">
   <div class="col-md-5" markdown="1">
