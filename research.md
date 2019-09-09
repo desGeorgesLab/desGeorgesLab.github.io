@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 ---
 
 ![des-Georges](img/t1.png)
