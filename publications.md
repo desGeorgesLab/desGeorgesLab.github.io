@@ -3,7 +3,78 @@ layout: page
 title: Publications
 ---
 
-- A. Dashti, D.B. Hail, G. Mashayekhi, P. Schwander, A. des Georges, J. Frank, A. Ourmazd (co-corresponding author) (2018) Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots. bioRxiv: 291922 (pre-print)
+<div class="row">
+  <div class="col-md-5" markdown="1">
+    ![des-Georges](img/p1.png)
+  </div>
+  <div class="col-md-7" markdown="1">
+    A. Dashti, D.B. Hail, G. Mashayekhi, P. Schwander, A. des Georges, J. Frank, A. Ourmazd (co-corresponding author) (2018) Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots. bioRxiv: 291922 (pre-print)
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  </div>
+  <div class="col-md-7" markdown="1">
+  </div>
+</div>
+
 
 - Montemiglio, L. C., Testi, C., Ceci, P., Falvo, E., Pitea, M., Savino, C., Arcovito, A., Peruzzi, G., Baiocco, P., Mancia, F., Boffi, A., des Georges, A., … Vallone, B. (2019). Cryo-EM structure of the human ferritin-transferrin receptor 1 complex. Nature communications, 10(1), 1121. doi:10.1038/s41467-019-09098-w
 
