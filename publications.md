@@ -21,6 +21,15 @@ title: Publications
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  ![des-Georges](img/p2.jpg)<br>
+  </div>
+  <div class="col-md-7" markdown="1">
+    Chase, J., Catalano, A., Noble, A. J., Eng, E. T., Olinares, P. D., Molloy, K., Pakotiprapha, D., Samuels, M., Chait, B., des Georges, A., … Jeruzalmi, D. (2018). Mechanisms of opening and closing of the bacterial replicative helicase. eLife, 7, e41140. doi:10.7554/eLife.41140
+  </div>
+</div>
+
 
 <div class="row">
   <div class="col-md-5" markdown="1">
@@ -88,7 +97,6 @@ title: Publications
 </div>
 
 
-- Chase, J., Catalano, A., Noble, A. J., Eng, E. T., Olinares, P. D., Molloy, K., Pakotiprapha, D., Samuels, M., Chait, B., des Georges, A., … Jeruzalmi, D. (2018). Mechanisms of opening and closing of the bacterial replicative helicase. eLife, 7, e41140. doi:10.7554/eLife.41140
 
 - Iketani, S., Shean, R. C., Ferren, M., Makhsous, N., Aquino, D. B., des Georges, A., Rima, B., Mathieu, C., Porotto, M., Moscona, A., … Greninger, A. L. (2018). Viral Entry Properties Required for Fitness in Humans Are Lost through Rapid Genomic Change during Viral Isolation. mBio, 9(4), e00898-18. doi:10.1128/mBio.00898-18
 
