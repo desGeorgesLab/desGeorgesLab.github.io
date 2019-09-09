@@ -50,8 +50,15 @@ title: Publications
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  ![des-Georges](img/p6_2.PNG)<br>
+  </div>
+  <div class="col-md-7" markdown="1">
+    Calisti, L., Trabuco, M. C., Boffi, A., Testi, C., Montemiglio, L. C., des Georges, A., Benni, I., Ilari, A., Taciak, B., Białasek, M., Rygiel, T., Król, M., Baiocco, P., … Bonamore, A. (2018). Engineered ferritin for lanthanide binding. PloS one, 13(8), e0201859. doi:10.1371/journal.pone.0201859
+  </div>
+</div>
 
-- Calisti, L., Trabuco, M. C., Boffi, A., Testi, C., Montemiglio, L. C., des Georges, A., Benni, I., Ilari, A., Taciak, B., Białasek, M., Rygiel, T., Król, M., Baiocco, P., … Bonamore, A. (2018). Engineered ferritin for lanthanide binding. PloS one, 13(8), e0201859. doi:10.1371/journal.pone.0201859
 
 - Santulli, G., Lewis, D., des Georges, A., Marks, A. R., & Frank, J. (2018). Ryanodine Receptor Structure and Function in Health and Disease. Sub-cellular biochemistry, 87, 329-352
 
