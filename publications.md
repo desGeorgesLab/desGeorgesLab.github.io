@@ -59,8 +59,15 @@ title: Publications
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-5" markdown="1">
+  ![des-Georges](img/p7.jpg)<br>
+  </div>
+  <div class="col-md-7" markdown="1">
+    Santulli, G., Lewis, D., des Georges, A., Marks, A. R., & Frank, J. (2018). Ryanodine Receptor Structure and Function in Health and Disease. Sub-cellular biochemistry, 87, 329-352
+  </div>
+</div>
 
-- Santulli, G., Lewis, D., des Georges, A., Marks, A. R., & Frank, J. (2018). Ryanodine Receptor Structure and Function in Health and Disease. Sub-cellular biochemistry, 87, 329-352
 
 - des Georges, A., Clarke, O. B., Zalk, R., Yuan, Q., Condon, K. J., Grassucci, R. A., Hendrickson, W. A., Marks, A. R., … Frank, J. (2016). Structural Basis for Gating and Activation of RyR1. Cell, 167(1), 145-157.e17
 
